@@ -50,18 +50,18 @@ namespace MusicCollection
 
         private void btnSave_Click(object sender, EventArgs e)
         {
-            // 防呆機制：歌曲名稱一定要填
-            if (string.IsNullOrWhiteSpace(txtSong.Text))
-            {
-                MessageBox.Show("歌曲名稱不能是空白的喔！", "提示");
-                return;
-            }
             // 防呆機制：歌手/音樂家名稱一定要填
             if (string.IsNullOrWhiteSpace(txtArtist.Text))
             {
                 MessageBox.Show("歌手/音樂家名稱不能是空白的喔！", "提示");
                 return;
             }
+            // 防呆機制：歌曲名稱一定要填
+            if (string.IsNullOrWhiteSpace(txtSong.Text))
+            {
+                MessageBox.Show("歌曲名稱不能是空白的喔！", "提示");
+                return;
+            }           
             // 檢查有沒有輸入 YouTube 連結，以及格式是否正確
             string ytLink = txtYTLink.Text.Trim(); // 先把字串前後多餘的空白去掉
 
