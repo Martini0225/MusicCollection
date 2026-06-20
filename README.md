@@ -9,7 +9,17 @@
 
 <img width="131" height="111" alt="image" src="https://github.com/user-attachments/assets/6bb64f84-979a-4f14-b39f-36e64ecc3379" />
 
-點選下面的加號可以打開新增歌曲的表單，其中歌手/音樂家、歌曲名稱以及YouTube連結都是一定要填寫的，若這三個其中一項沒填到，系統都會提醒你
+右上的搜尋欄可以藉由搜尋歌手名稱、歌曲名稱、專輯名稱以及年份，來找到符合的歌曲
+<img width="331" height="106" alt="image" src="https://github.com/user-attachments/assets/08706ffb-bbef-4680-a444-e846c9626329" />
+
+
+
+
+
+
+
+
+點選右側左下角的加號可以打開新增歌曲的表單，其中歌手/音樂家、歌曲名稱以及YouTube連結都是一定要填寫的，若這三個其中一項沒填到，系統都會提醒你
 
 <img width="242" height="82" alt="image" src="https://github.com/user-attachments/assets/de794d43-a9c1-42db-8444-205976d04028" />
 
@@ -31,6 +41,11 @@
 
 <img width="570" height="531" alt="image" src="https://github.com/user-attachments/assets/4084ac85-af7b-4221-9396-539f22c998ca" />
 
+按下儲存後，歌曲就會新增成功，出現在左側清單
 <img width="568" height="531" alt="image" src="https://github.com/user-attachments/assets/4db73948-0b22-42d5-b8ff-0d76ffe95630" />
 
+<img width="1001" height="696" alt="image" src="https://github.com/user-attachments/assets/22ca9df0-d813-48b2-94c3-4c15cbe27856" />
 
+接著是右側左下角的鉛筆圖示，選擇左邊清單一首歌曲，再點選此鉛筆圖示，就會開啟編輯歌曲資訊的表單(和新增歌曲表單是一樣的)，歌手/音樂家、歌曲名稱以及YouTube連結也都一定要填寫的，如果空白或不符合格式，系統會提醒並還原成更改前的內容
+
+<img width="1005" height="696" alt="image" src="https://github.com/user-attachments/assets/e77e6951-8047-4af9-ad42-9f6260213254" />
