@@ -11,15 +11,27 @@
 
 <img width="131" height="111" alt="image" src="https://github.com/user-attachments/assets/6bb64f84-979a-4f14-b39f-36e64ecc3379" />
 
+<img width="1265" height="856" alt="image" src="https://github.com/user-attachments/assets/205aa7b8-fd80-44d6-bf37-0b26e0218e73" />
+
 右上的搜尋欄可以藉由搜尋歌手名稱、歌曲名稱、專輯名稱以及年份，來找到符合的歌曲
 
 <img width="331" height="106" alt="image" src="https://github.com/user-attachments/assets/08706ffb-bbef-4680-a444-e846c9626329" />
 
+用歌手名稱查詢
 
+<img width="1002" height="692" alt="image" src="https://github.com/user-attachments/assets/d82c0456-801f-4294-98e5-a2a0bdb4a080" />
 
+用歌名查詢
 
+<img width="997" height="697" alt="image" src="https://github.com/user-attachments/assets/821790ba-a955-45dc-b2ef-74d0e3e466c0" />
 
+用專輯查詢
 
+<img width="997" height="696" alt="image" src="https://github.com/user-attachments/assets/fbcda857-79d7-43a5-973f-bd6b1fb3dcec" />
+
+用年份查詢
+
+<img width="997" height="696" alt="image" src="https://github.com/user-attachments/assets/d7cad783-2d31-4975-87c7-510c284a1c4e" />
 
 
 點選右側左下角的加號可以打開新增歌曲的表單，其中歌手/音樂家、歌曲名稱以及YouTube連結都是一定要填寫的，若這三個其中一項沒填到，系統都會提醒你
