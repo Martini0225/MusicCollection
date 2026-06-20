@@ -2,7 +2,9 @@
 音樂庫管理
 
 左邊為歌曲清單，可用滑鼠或鍵盤上下方向鍵選取歌曲，右側會顯示歌曲資訊如歌手/音樂家名稱、專輯名稱與年份、圖片與歌詞，若歌曲沒歌詞則不會顯示
+
 <img width="1000" height="696" alt="image" src="https://github.com/user-attachments/assets/088dc1e9-ac7d-43cd-9138-c37fcf585bf0" />
+
 <img width="1002" height="696" alt="image" src="https://github.com/user-attachments/assets/0c5a415d-6b74-4bd3-a2e1-6172b38ebfff" />
 
 點選歌詞欄上方的YouTube方形圖示，可以跳至此歌的YouTube連結中播放
@@ -10,6 +12,7 @@
 <img width="131" height="111" alt="image" src="https://github.com/user-attachments/assets/6bb64f84-979a-4f14-b39f-36e64ecc3379" />
 
 右上的搜尋欄可以藉由搜尋歌手名稱、歌曲名稱、專輯名稱以及年份，來找到符合的歌曲
+
 <img width="331" height="106" alt="image" src="https://github.com/user-attachments/assets/08706ffb-bbef-4680-a444-e846c9626329" />
 
 
@@ -42,6 +45,7 @@
 <img width="570" height="531" alt="image" src="https://github.com/user-attachments/assets/4084ac85-af7b-4221-9396-539f22c998ca" />
 
 按下儲存後，歌曲就會新增成功，出現在左側清單
+
 <img width="568" height="531" alt="image" src="https://github.com/user-attachments/assets/4db73948-0b22-42d5-b8ff-0d76ffe95630" />
 
 <img width="1001" height="696" alt="image" src="https://github.com/user-attachments/assets/22ca9df0-d813-48b2-94c3-4c15cbe27856" />
