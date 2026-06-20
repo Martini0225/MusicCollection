@@ -27,6 +27,10 @@
 
 <img width="571" height="535" alt="image" src="https://github.com/user-attachments/assets/94107bec-f4ae-45a1-8471-7b8236db3ca9" />
 
+這張表單中除了這三個資訊，其他都是選擇性填寫的，可寫可不寫
 
+<img width="570" height="531" alt="image" src="https://github.com/user-attachments/assets/4084ac85-af7b-4221-9396-539f22c998ca" />
+
+<img width="568" height="531" alt="image" src="https://github.com/user-attachments/assets/4db73948-0b22-42d5-b8ff-0d76ffe95630" />
 
 
