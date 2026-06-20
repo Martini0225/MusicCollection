@@ -80,3 +80,10 @@
 <img width="993" height="683" alt="image" src="https://github.com/user-attachments/assets/4087bdcc-a951-4c53-b5db-c12242198215" />
 
 <img width="997" height="692" alt="image" src="https://github.com/user-attachments/assets/ff68caa1-5557-4360-8758-1fcb191f681b" />
+
+<img width="998" height="692" alt="image" src="https://github.com/user-attachments/assets/63d11c8d-5a8a-4f72-acdc-25d38c772312" />
+
+成功刪除後，這首歌就不會出現在左側清單
+
+<img width="1002" height="698" alt="image" src="https://github.com/user-attachments/assets/50c8129a-271f-4967-a880-bbf6a128b260" />
+
