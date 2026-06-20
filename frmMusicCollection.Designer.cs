@@ -30,15 +30,15 @@
         {
             this.lstSong = new System.Windows.Forms.ListBox();
             this.grpInformation = new System.Windows.Forms.GroupBox();
-            this.lblSearch = new System.Windows.Forms.Label();
-            this.txtSearch = new System.Windows.Forms.TextBox();
-            this.txtLyrics = new System.Windows.Forms.TextBox();
-            this.lblAlbum = new System.Windows.Forms.Label();
-            this.lblArtist = new System.Windows.Forms.Label();
             this.picEditSong = new System.Windows.Forms.PictureBox();
             this.picDeleteSong = new System.Windows.Forms.PictureBox();
             this.picAddSong = new System.Windows.Forms.PictureBox();
+            this.lblSearch = new System.Windows.Forms.Label();
+            this.txtSearch = new System.Windows.Forms.TextBox();
             this.picYTLink = new System.Windows.Forms.PictureBox();
+            this.txtLyrics = new System.Windows.Forms.TextBox();
+            this.lblAlbum = new System.Windows.Forms.Label();
+            this.lblArtist = new System.Windows.Forms.Label();
             this.picAlbum = new System.Windows.Forms.PictureBox();
             this.picArtist = new System.Windows.Forms.PictureBox();
             this.grpInformation.SuspendLayout();
@@ -86,59 +86,6 @@
             this.grpInformation.TabStop = false;
             this.grpInformation.Text = "歌曲資訊";
             // 
-            // lblSearch
-            // 
-            this.lblSearch.AutoSize = true;
-            this.lblSearch.Font = new System.Drawing.Font("微軟正黑體", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.lblSearch.Location = new System.Drawing.Point(470, 30);
-            this.lblSearch.Name = "lblSearch";
-            this.lblSearch.Size = new System.Drawing.Size(157, 25);
-            this.lblSearch.TabIndex = 7;
-            this.lblSearch.Text = "搜尋歌手或歌曲:";
-            // 
-            // txtSearch
-            // 
-            this.txtSearch.Location = new System.Drawing.Point(475, 70);
-            this.txtSearch.Name = "txtSearch";
-            this.txtSearch.Size = new System.Drawing.Size(312, 31);
-            this.txtSearch.TabIndex = 6;
-            this.txtSearch.TextChanged += new System.EventHandler(this.txtSearch_TextChanged);
-            // 
-            // txtLyrics
-            // 
-            this.txtLyrics.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.txtLyrics.BackColor = System.Drawing.SystemColors.ActiveCaption;
-            this.txtLyrics.Font = new System.Drawing.Font("微軟正黑體", 11F);
-            this.txtLyrics.Location = new System.Drawing.Point(351, 121);
-            this.txtLyrics.Multiline = true;
-            this.txtLyrics.Name = "txtLyrics";
-            this.txtLyrics.ReadOnly = true;
-            this.txtLyrics.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
-            this.txtLyrics.Size = new System.Drawing.Size(436, 531);
-            this.txtLyrics.TabIndex = 4;
-            // 
-            // lblAlbum
-            // 
-            this.lblAlbum.AutoSize = true;
-            this.lblAlbum.Font = new System.Drawing.Font("微軟正黑體", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.lblAlbum.Location = new System.Drawing.Point(20, 273);
-            this.lblAlbum.Name = "lblAlbum";
-            this.lblAlbum.Size = new System.Drawing.Size(57, 25);
-            this.lblAlbum.TabIndex = 3;
-            this.lblAlbum.Text = "專輯:";
-            // 
-            // lblArtist
-            // 
-            this.lblArtist.AutoSize = true;
-            this.lblArtist.Font = new System.Drawing.Font("微軟正黑體", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.lblArtist.Location = new System.Drawing.Point(27, 37);
-            this.lblArtist.Name = "lblArtist";
-            this.lblArtist.Size = new System.Drawing.Size(125, 25);
-            this.lblArtist.TabIndex = 2;
-            this.lblArtist.Text = "歌手/音樂家:";
-            // 
             // picEditSong
             // 
             this.picEditSong.Cursor = System.Windows.Forms.Cursors.Hand;
@@ -175,6 +122,24 @@
             this.picAddSong.TabStop = false;
             this.picAddSong.Click += new System.EventHandler(this.picAddSong_Click);
             // 
+            // lblSearch
+            // 
+            this.lblSearch.AutoSize = true;
+            this.lblSearch.Font = new System.Drawing.Font("微軟正黑體", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
+            this.lblSearch.Location = new System.Drawing.Point(470, 30);
+            this.lblSearch.Name = "lblSearch";
+            this.lblSearch.Size = new System.Drawing.Size(253, 25);
+            this.lblSearch.TabIndex = 7;
+            this.lblSearch.Text = "搜尋歌手或歌曲/專輯/年份:";
+            // 
+            // txtSearch
+            // 
+            this.txtSearch.Location = new System.Drawing.Point(475, 70);
+            this.txtSearch.Name = "txtSearch";
+            this.txtSearch.Size = new System.Drawing.Size(312, 31);
+            this.txtSearch.TabIndex = 6;
+            this.txtSearch.TextChanged += new System.EventHandler(this.txtSearch_TextChanged);
+            // 
             // picYTLink
             // 
             this.picYTLink.Cursor = System.Windows.Forms.Cursors.Hand;
@@ -187,6 +152,41 @@
             this.picYTLink.TabStop = false;
             this.picYTLink.Visible = false;
             this.picYTLink.Click += new System.EventHandler(this.picYTLink_Click);
+            // 
+            // txtLyrics
+            // 
+            this.txtLyrics.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.txtLyrics.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.txtLyrics.Font = new System.Drawing.Font("微軟正黑體", 11F);
+            this.txtLyrics.Location = new System.Drawing.Point(351, 121);
+            this.txtLyrics.Multiline = true;
+            this.txtLyrics.Name = "txtLyrics";
+            this.txtLyrics.ReadOnly = true;
+            this.txtLyrics.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
+            this.txtLyrics.Size = new System.Drawing.Size(436, 531);
+            this.txtLyrics.TabIndex = 4;
+            // 
+            // lblAlbum
+            // 
+            this.lblAlbum.AutoSize = true;
+            this.lblAlbum.Font = new System.Drawing.Font("微軟正黑體", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
+            this.lblAlbum.Location = new System.Drawing.Point(20, 273);
+            this.lblAlbum.Name = "lblAlbum";
+            this.lblAlbum.Size = new System.Drawing.Size(57, 25);
+            this.lblAlbum.TabIndex = 3;
+            this.lblAlbum.Text = "專輯:";
+            // 
+            // lblArtist
+            // 
+            this.lblArtist.AutoSize = true;
+            this.lblArtist.Font = new System.Drawing.Font("微軟正黑體", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
+            this.lblArtist.Location = new System.Drawing.Point(27, 37);
+            this.lblArtist.Name = "lblArtist";
+            this.lblArtist.Size = new System.Drawing.Size(125, 25);
+            this.lblArtist.TabIndex = 2;
+            this.lblArtist.Text = "歌手/音樂家:";
             // 
             // picAlbum
             // 
