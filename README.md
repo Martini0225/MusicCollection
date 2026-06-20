@@ -12,5 +12,21 @@
 點選下面的加號可以打開新增歌曲的表單，其中歌手/音樂家、歌曲名稱以及YouTube連結都是一定要填寫的，若這三個其中一項沒填到，系統都會提醒你
 
 <img width="242" height="82" alt="image" src="https://github.com/user-attachments/assets/de794d43-a9c1-42db-8444-205976d04028" />
+
 <img width="563" height="536" alt="image" src="https://github.com/user-attachments/assets/3529dc96-9069-4041-9520-8eeaffa856a0" />
+
+<img width="572" height="532" alt="image" src="https://github.com/user-attachments/assets/b10807ff-9f72-44eb-9e79-83b569cb54b9" />
+
+<img width="567" height="536" alt="image" src="https://github.com/user-attachments/assets/a0ebe200-cb34-45cf-9583-0d7fa74ac746" />
+
+<img width="567" height="535" alt="image" src="https://github.com/user-attachments/assets/6b44324d-3669-45a3-8a41-f7aa874a7b71" />
+
+若YouTube連結填入的並非是完整網址，系統會提醒你，若填入的連結不是YouTube連結，也會提醒
+
+<img width="562" height="527" alt="image" src="https://github.com/user-attachments/assets/dc53f09d-0536-4e84-adcd-3afb5a00a047" />
+
+<img width="571" height="535" alt="image" src="https://github.com/user-attachments/assets/94107bec-f4ae-45a1-8471-7b8236db3ca9" />
+
+
+
 
